@@ -1,0 +1,9 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+argparse	/Users/zhouqi/Desktop/python/my_python_lib/argparsedemo/test1.py	/^import argparse$/;"	namespace	line:9
+parser	/Users/zhouqi/Desktop/python/my_python_lib/argparsedemo/test1.py	/^parser = argparse.ArgumentParser(description="your script description")            # description参数可以用于插入描述脚本用途的信息，可以为空$/;"	variable	line:11
+args	/Users/zhouqi/Desktop/python/my_python_lib/argparsedemo/test1.py	/^args = parser.parse_args()                                                         # 将变量以标签-值的字典形式存入args字典$/;"	variable	line:14

@@ -1,0 +1,7 @@
+email_conf:
+  is_email: True
+  email: "393013301@qq.com "
+  notice_email_list: "931384927@qq.com"
+  username: "888888888"
+  password: "888888888"
+  host: "smtp.qq.com"
