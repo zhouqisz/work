@@ -25,10 +25,11 @@ class works:
         self.logspath  = self.config.get("path","logspath")
         self.jsonpaths = self.config.get("path", "jsonpaths")
         self.timesleep = self.config.get("setting","timesleep")
+        self.checkdays = self.config.get("setting","checkdays")
         self.name_log  = time.strftime('%Y%m%d',time.localtime(time.time()))+'.log'
         self.name_json= time.strftime('%Y%m%d', time.localtime(time.time()))+'.json'
         self.logobj    = logss.log_factory(self.logspath,(self.name_log))
-        self.list_bak      = self.makejson(self.name_json,self.bakpath,self.jsonpath)
+        self.list_bak      = self.makejson_bak(self.name_json,self.bakpath,self.jsonpath,self.checkdays)
         self.list_check    = self.makejson(self.name_json,self.checkpath,self.jsonpaths)
         # self.show()
         self.logobj.info('实例化成功:检测目录：{0} 备份目录: {1} 工作目录:{2} 日志目录:{3},json目录:{4},间隔时间:{5}'\
@@ -49,7 +50,10 @@ class works:
         msg ,list= path_to_json.file_to_jsonfile(filename,tagpath,jsonpath)
         self.logobj.info(msg)
         return list
-
+    def makejson_bak(self,filename,tagpath,jsonpath,n_days):
+        msg ,list= path_to_json.file_to_jsonfile_0(filename,tagpath,jsonpath)
+        self.logobj.info(msg)
+        return list
 
     def ckeckfile(self):
         for k,v in self.list_check.items():          #遍历异常目录
@@ -126,7 +130,7 @@ class works:
 
         print '完成一次检查'
 
-            
+
 
 
 
