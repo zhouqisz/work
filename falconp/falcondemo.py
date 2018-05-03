@@ -21,6 +21,19 @@ class QuoteResource:
         print 'get'
 
         resp.media = quote
+    def on_post(self, req, resp):
+        """Handles post requests"""
+        print req.text()
+        quote = {
+            'quote': (
+                "I've always been more interested in "
+                "the future than in the past."
+            ),
+            'author': 'Grace Hopper'
+        }
+        print 'post'
+
+        resp.media = quote
 
 api = falcon.API()
 api.add_route('/quote', QuoteResource())

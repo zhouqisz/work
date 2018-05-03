@@ -8,6 +8,7 @@ import time
 import shutil
 import filecmp
 import tarfile
+import zipfile
 
 class works:
 
@@ -52,17 +53,20 @@ class works:
     def ckeckfile(self):
         for k,v in self.list_check.items():          #遍历异常目录
             for k1,v1 in self.list_bak.items():      #遍历备份录目录
+                print v,v1
                 if v in v1:
-                    self.makefile(v,k,k1,v1)
-                    self.logobj.info('{}文件匹配到了{}文件，接下来比较两文件是否相同')
+                    self.makefile(k,v,k1,v1)
+                    self.logobj.info('{}文件匹配到了{}文件，接下来比较两文件是否相同'.format(v,v1))
                 else:
-                    self.logobj.info('{}文件匹配不到了{}文件')
+                    self.logobj.info('{}文件与{}文件不匹配'.format(v,v1))
 
     def makefile(self,path,file,path1,file1):
         self.mvfile(path1,self.tarpath+file1)
-        self.untar(self,file1)
+        # self.untar(file1)
+        self.unzip_dir(self.tarpath+file1,self.tarpath)
+        print 'test:  ' + path,file ,path1,file1
         if self.checkfile(path,self.tarpath+file):             #如果两个文件一样，返回true，否则返回 false
-            self.logobj.info('异常文件 %与备份文件的文件相同，完全查重处理'%file)
+            self.logobj.info('异常文件 {}与备份文件的文件相同，完全查重处理'.format(file))
             pass
         else:
             self.mvfile(self.tarpath+file,self.workpath+file)  #如果不通就把解压的放到工作目录
@@ -70,7 +74,7 @@ class works:
 
 
     def mvfile(self,file1,file2):
-        shutil.move(file1, file2)
+        shutil.copy(file1, file2)
 
 
     def untar(self,file_name):
@@ -86,11 +90,18 @@ class works:
             tar.extract(name, self.tarpath)
         tar.close()
 
-
+    def unzip_dir(self,srcname, dstPath):
+        print srcname, dstPath
+        zipHandle = zipfile.ZipFile(srcname, "r")
+        for filename in zipHandle.namelist():
+            print filename
+        zipHandle.extractall(dstPath)  # 解压到指定目录
+        self.logobj.info('解压文件')
+        zipHandle.close()
 
 
     def checkfile(self,file1, file2):  # 检测文件是否相同的函数
-
+        print file1,file2
         return filecmp.cmp(file1, file2)
 
 def main():
