@@ -10,3 +10,514 @@
 [2018-05-03 21:46:52] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
 [2018-05-03 21:46:52] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
 [2018-05-03 21:46:52] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 21:59:00] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 21:59:00] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 21:59:00] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 21:59:00] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与.DS_Store文件不匹配
+[2018-05-03 21:59:00] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 21:59:00] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 21:59:00] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 21:59:59] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 21:59:59] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 21:59:59] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 21:59:59] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与.DS_Store文件不匹配
+[2018-05-03 21:59:59] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 21:59:59] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 21:59:59] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 21:59:59] INFO [checkfile: main.py, 107] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888 与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888相同
+[2018-05-03 21:59:59] INFO [makefile: main.py, 69] 异常文件 NRPPPPCHCNT09888888与备份文件的文件相同，完全查重处理
+[2018-05-03 21:59:59] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 21:59:59] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与.DS_Store文件不匹配
+[2018-05-03 21:59:59] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 21:59:59] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 21:59:59] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:01:42] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:01:42] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:01:42] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:01:42] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与.DS_Store文件不匹配
+[2018-05-03 22:01:42] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:01:42] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:01:42] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:01:42] INFO [checkfile: main.py, 107] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888 与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888相同
+[2018-05-03 22:02:36] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:02:36] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:02:36] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:02:36] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与.DS_Store文件不匹配
+[2018-05-03 22:02:36] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:02:36] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:02:36] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:02:36] INFO [checkfile: main.py, 107] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888 与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888相同
+[2018-05-03 22:02:36] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:02:36] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:02:36] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与.DS_Store文件不匹配
+[2018-05-03 22:02:36] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:02:36] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:02:36] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:02:54] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:02:54] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:02:54] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:02:54] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与.DS_Store文件不匹配
+[2018-05-03 22:02:54] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:02:54] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:02:54] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:02:54] INFO [checkfile: main.py, 107] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888 与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888相同
+[2018-05-03 22:02:54] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:02:54] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:02:54] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与.DS_Store文件不匹配
+[2018-05-03 22:02:54] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:02:54] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:02:54] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:03:01] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:03:01] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:03:01] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:03:01] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与.DS_Store文件不匹配
+[2018-05-03 22:03:01] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:03:01] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:03:01] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:03:01] INFO [checkfile: main.py, 107] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888 与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888相同
+[2018-05-03 22:03:01] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:03:01] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:03:01] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与.DS_Store文件不匹配
+[2018-05-03 22:03:01] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:03:01] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:03:01] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:03:21] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:03:21] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:03:21] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:03:21] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与.DS_Store文件不匹配
+[2018-05-03 22:03:21] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:03:21] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:03:21] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:03:21] INFO [checkfile: main.py, 107] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888 与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888相同
+[2018-05-03 22:03:21] INFO [makefile: main.py, 69] 异常文件 NRPPPPCHCNT09888888与备份文件的文件相同，完全查重处理
+[2018-05-03 22:03:21] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:03:21] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与.DS_Store文件不匹配
+[2018-05-03 22:03:21] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:03:21] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:03:21] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:04:15] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:04:15] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:04:15] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:04:15] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与.DS_Store文件不匹配
+[2018-05-03 22:04:15] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:04:15] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:04:15] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:04:15] INFO [checkfile: main.py, 107] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888 与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888相同
+[2018-05-03 22:04:15] INFO [makefile: main.py, 69] 异常文件 NRPPPPCHCNT09888888与备份文件的文件相同，完全查重处理
+[2018-05-03 22:04:15] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:04:15] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与.DS_Store文件不匹配
+[2018-05-03 22:04:15] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:04:15] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:04:15] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:06:01] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:06:01] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:06:01] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:06:01] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与.DS_Store文件不匹配
+[2018-05-03 22:06:01] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:06:01] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:06:01] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:06:01] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:06:01] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:06:01] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:06:01] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与.DS_Store文件不匹配
+[2018-05-03 22:06:01] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:06:01] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:06:01] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:06:39] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:06:39] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:06:39] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:06:39] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与.DS_Store文件不匹配
+[2018-05-03 22:06:39] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:06:39] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:06:39] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:06:39] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:06:39] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:06:39] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:06:39] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与.DS_Store文件不匹配
+[2018-05-03 22:06:39] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:06:39] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:06:39] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:09:05] INFO [makejson: main.py, 49] 文件已更新
+[2018-05-03 22:09:05] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:09:05] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:09:05] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:09:05] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:09:05] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:09:05] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:09:05] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:09:05] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:09:05] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:09:05] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:09:05] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:09:21] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:09:21] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:09:21] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:09:21] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:09:21] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:09:21] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:09:21] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:09:21] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:09:21] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:09:21] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:09:21] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:09:21] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:09:23] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:09:23] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:09:23] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:09:23] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:09:23] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:09:23] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:09:23] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:09:23] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:09:23] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:09:23] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:09:23] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:09:23] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:09:24] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:09:24] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:09:24] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:09:24] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:09:24] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:09:24] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:09:24] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:09:24] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:09:24] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:09:24] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:09:24] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:09:24] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:09:25] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:09:25] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:09:25] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:09:25] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:09:25] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:09:25] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:09:25] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:09:25] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:09:25] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:09:25] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:09:25] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:09:25] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:09:26] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:09:26] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:09:26] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:09:26] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:09:26] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:09:26] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:09:26] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:09:26] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:09:26] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:09:26] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:09:26] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:09:26] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:16:01] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:16:01] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:16:01] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:16:01] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:16:01] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:16:01] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:16:01] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:16:01] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:16:01] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:16:01] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:16:01] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:16:01] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:16:26] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:16:26] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:16:26] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:16:26] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:16:26] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:16:26] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:16:26] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:16:26] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:16:26] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:16:26] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:16:26] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:16:26] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:17:45] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:45] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:45] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:17:45] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:17:45] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:45] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:17:45] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:17:45] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:17:45] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:17:45] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:17:45] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:45] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:17:47] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:47] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:47] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:17:47] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:17:47] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:47] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:17:47] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:17:47] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:17:47] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:17:47] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:17:47] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:47] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:17:48] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:48] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:48] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:17:48] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:17:48] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:48] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:17:48] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:17:48] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:17:48] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:17:48] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:17:48] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:48] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:17:49] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:49] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:49] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:17:49] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:17:49] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:49] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:17:49] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:17:49] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:17:49] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:17:49] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:17:49] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:49] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:17:50] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:50] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:50] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:17:50] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:17:50] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:50] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:17:50] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:17:50] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:17:50] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:17:50] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:17:50] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:50] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:17:51] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:51] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:51] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:17:51] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:17:51] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:51] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:17:51] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:17:51] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:17:51] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:17:51] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:17:51] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:51] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:17:52] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:52] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:52] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:17:52] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:17:52] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:52] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:17:52] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:17:52] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:17:52] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:17:52] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:17:52] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:52] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:17:53] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:53] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:53] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:17:53] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:17:53] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:53] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:17:53] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:17:53] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:17:53] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:17:53] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:17:53] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:53] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:17:55] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:55] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:55] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:17:55] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:17:55] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:55] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:17:55] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:17:55] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:17:55] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:17:55] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:17:55] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:55] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:17:56] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:56] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:56] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:17:56] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:17:56] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:56] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:17:56] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:17:56] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:17:56] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:17:56] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:17:56] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:56] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:17:57] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:57] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:17:57] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:17:57] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:17:57] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:57] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:17:57] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:17:57] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:17:57] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:17:57] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:17:57] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:17:57] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:18:18] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:18:18] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:18:18] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:18:18] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:18:18] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:18:18] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:18:18] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:18:18] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:18:18] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:18:18] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:18:18] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:18:18] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:18:21] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:18:21] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:18:21] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:18:21] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:18:21] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:18:21] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:18:21] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:18:21] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:18:21] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:18:21] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:18:21] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:18:21] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:18:22] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:18:22] INFO [makejson: main.py, 49] 文件没有更新
+[2018-05-03 22:18:22] INFO [__init__: main.py, 34] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:18:22] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:18:22] INFO [ckeckfile: main.py, 61] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:18:22] INFO [unzip_dir: main.py, 99] 解压文件
+[2018-05-03 22:18:22] INFO [checkfile: main.py, 109] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:18:22] INFO [makefile: main.py, 73] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:18:22] INFO [ckeckfile: main.py, 59] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:18:22] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:18:22] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:18:22] INFO [ckeckfile: main.py, 61] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:26:48] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:26:48] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:26:48] INFO [__init__: main.py, 35] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:26:48] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:26:48] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:26:48] INFO [unzip_dir: main.py, 100] 解压文件
+[2018-05-03 22:26:48] INFO [checkfile: main.py, 110] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:26:48] INFO [makefile: main.py, 74] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:26:48] INFO [ckeckfile: main.py, 60] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:26:48] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:26:48] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:26:48] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:26:55] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:26:55] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:26:55] INFO [__init__: main.py, 35] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:26:55] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:26:55] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:26:55] INFO [unzip_dir: main.py, 100] 解压文件
+[2018-05-03 22:26:55] INFO [checkfile: main.py, 110] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:26:55] INFO [makefile: main.py, 74] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:26:55] INFO [ckeckfile: main.py, 60] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:26:55] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:26:55] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:26:55] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:27:51] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:27:51] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:27:51] INFO [__init__: main.py, 35] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:27:51] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:27:51] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:27:51] INFO [unzip_dir: main.py, 100] 解压文件
+[2018-05-03 22:27:51] INFO [checkfile: main.py, 110] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:27:51] INFO [makefile: main.py, 74] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:27:51] INFO [ckeckfile: main.py, 60] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:27:51] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:27:51] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:27:51] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:28:08] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:08] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:08] INFO [__init__: main.py, 35] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:28:08] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:28:08] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:08] INFO [unzip_dir: main.py, 100] 解压文件
+[2018-05-03 22:28:08] INFO [checkfile: main.py, 110] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:28:08] INFO [makefile: main.py, 74] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:28:08] INFO [ckeckfile: main.py, 60] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:28:08] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:28:08] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:08] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:28:09] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:09] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:09] INFO [__init__: main.py, 35] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:28:09] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:28:09] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:09] INFO [unzip_dir: main.py, 100] 解压文件
+[2018-05-03 22:28:09] INFO [checkfile: main.py, 110] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:28:09] INFO [makefile: main.py, 74] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:28:09] INFO [ckeckfile: main.py, 60] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:28:09] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:28:09] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:09] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:28:11] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:11] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:11] INFO [__init__: main.py, 35] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:28:11] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:28:11] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:11] INFO [unzip_dir: main.py, 100] 解压文件
+[2018-05-03 22:28:11] INFO [checkfile: main.py, 110] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:28:11] INFO [makefile: main.py, 74] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:28:11] INFO [ckeckfile: main.py, 60] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:28:11] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:28:11] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:11] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:28:13] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:13] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:13] INFO [__init__: main.py, 35] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:28:13] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:28:13] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:13] INFO [unzip_dir: main.py, 100] 解压文件
+[2018-05-03 22:28:13] INFO [checkfile: main.py, 110] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:28:13] INFO [makefile: main.py, 74] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:28:13] INFO [ckeckfile: main.py, 60] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:28:13] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:28:13] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:13] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:28:14] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:14] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:14] INFO [__init__: main.py, 35] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:28:14] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:28:14] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:14] INFO [unzip_dir: main.py, 100] 解压文件
+[2018-05-03 22:28:14] INFO [checkfile: main.py, 110] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:28:14] INFO [makefile: main.py, 74] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:28:14] INFO [ckeckfile: main.py, 60] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:28:14] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:28:14] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:14] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:28:15] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:15] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:15] INFO [__init__: main.py, 35] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:28:15] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:28:15] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:15] INFO [unzip_dir: main.py, 100] 解压文件
+[2018-05-03 22:28:15] INFO [checkfile: main.py, 110] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:28:15] INFO [makefile: main.py, 74] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:28:15] INFO [ckeckfile: main.py, 60] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:28:15] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:28:15] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:15] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配
+[2018-05-03 22:28:17] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:17] INFO [makejson: main.py, 50] 文件没有更新
+[2018-05-03 22:28:17] INFO [__init__: main.py, 35] 实例化成功:检测目录：/Users/zhouqi/Desktop/python/1/ 备份目录: /Users/zhouqi/Desktop/python/4/ 工作目录:/Users/zhouqi/Desktop/python/3/ 日志目录:/Users/zhouqi/Desktop/python/work/logs/,json目录:/Users/zhouqi/Desktop/python/work/logs/,间隔时间:60
+[2018-05-03 22:28:17] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与1.txt文件不匹配
+[2018-05-03 22:28:17] INFO [ckeckfile: main.py, 62] NRPPPPCHCNT09888888文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:17] INFO [unzip_dir: main.py, 100] 解压文件
+[2018-05-03 22:28:17] INFO [checkfile: main.py, 110] /Users/zhouqi/Desktop/python/1/NRPPPPCHCNT09888888与 /Users/zhouqi/Desktop/python/7/NRPPPPCHCNT09888888不同
+[2018-05-03 22:28:17] INFO [makefile: main.py, 74] 异常文件 NRPPPPCHCNT09888888与备份文件的文件不同，将解压好的文件移动到工作目录
+[2018-05-03 22:28:17] INFO [ckeckfile: main.py, 60] NRPPPPCHCNT09888888文件匹配到了NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件，接下来比较两文件是否相同
+[2018-05-03 22:28:17] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与1.txt文件不匹配
+[2018-05-03 22:28:17] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与ARPPPPCHKKKK0998899文件不匹配
+[2018-05-03 22:28:17] INFO [ckeckfile: main.py, 62] NRKKKKCHINA7889323文件与NRPPPPCHCNT09888888-ARPPPPCHKKKK0998899-99000.zip文件不匹配

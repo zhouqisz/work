@@ -9,6 +9,7 @@ import shutil
 import filecmp
 import tarfile
 import zipfile
+import os
 
 class works:
 
@@ -70,7 +71,7 @@ class works:
             pass
         else:
             self.mvfile(self.tarpath+file,self.workpath+file)  #如果不通就把解压的放到工作目录
-            self.logobj.info('异常文件 %与备份文件的文件不同，将解压好的文件移动到工作目录'%file)
+            self.logobj.info('异常文件 {}与备份文件的文件不同，将解压好的文件移动到工作目录'.format(file))
 
 
     def mvfile(self,file1,file2):
@@ -102,11 +103,37 @@ class works:
 
     def checkfile(self,file1, file2):  # 检测文件是否相同的函数
         print file1,file2
-        return filecmp.cmp(file1, file2)
+        a =filecmp.cmp(file1, file2)
+        if a :
+            self.logobj.info('{} 与 {}相同'.format(file1,file2))
+        else:
+            self.logobj.info('{}与 {}不同'.format(file1,file2))
+        return a
+    def __del__(self):
+
+
+        delDir = self.tarpath
+        delList = os.listdir(delDir)
+
+        for f in delList:
+            filePath = os.path.join(delDir, f)
+            if os.path.isfile(filePath):
+                os.remove(filePath)
+                print filePath + " was removed!"
+            elif os.path.isdir(filePath):
+                shutil.rmtree(filePath, True)
+            print "Directory: " + filePath + " was removed!"
+
+        print '完成一次检查'
+
+            
+
+
 
 def main():
     s =  works('con.ini')
     s.ckeckfile()
+    s.__del__()
 
 if __name__=='__main__':
     main()

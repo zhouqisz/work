@@ -15,7 +15,10 @@ def scan_files(directory, prefix=None, postfix=None):
                 if special_file.startswith(prefix):
                     files_list.append(os.path.join(root, special_file))
             else:
-                files_list[os.path.join(root, special_file)]=special_file
+                if special_file =='.DS_Store':
+                    pass
+                else:
+                    files_list[os.path.join(root, special_file)]=special_file
 
     return files_list
 
